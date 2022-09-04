@@ -29,14 +29,6 @@
 </a>
 </p>
 
-### 🔷 &nbsp;find me!
-
-<p align="center">
-<a href="https://www.rentry.co/silxnt-kxng"><img src="https://img.shields.io/badge/-rentry.co/silxnt-kxng-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:silverlining0013@gmail.com"><img src="https://img.shields.io/badge/-silverlining0013@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
 -----
 by [artem!](https://github.com/silxnt-kxng)
 
