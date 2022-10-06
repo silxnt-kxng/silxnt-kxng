@@ -3,9 +3,9 @@
 ### 🎐 &nbsp;about me!
 
 💙 &nbsp;i make discord bots and i use this for other stuff sometimes\
-🌐 &nbsp;i'm mainly interested in video games and i wanna be a video game dev when i'm in college\
+🌐 &nbsp;i'm mainly interested in video games and i wanna be a video game dev or hacker when i'm in college\
 🌠 &nbsp;i'm still learning\
-🌌 &nbsp;in my free time, i play osu, make music, hang out on discord, and be draw\
+🌌 &nbsp;in my free time, i play osu, make music, hang out on discord, and draw\
 💤 &nbsp;you can shoot me a message on discord if you need something (silxnt_kxng#9439) and i'll hopefully respond as soon as possible\
 
 ### 📘 &nbsp;my stack!
