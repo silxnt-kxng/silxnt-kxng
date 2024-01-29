@@ -3,17 +3,16 @@
 ### 🎐 &nbsp;about me!
 
 💙 &nbsp;i make discord bots and i use this for other stuff sometimes\
-🌐 &nbsp;i'm mainly interested in video games and i wanna be a video game dev or hacker when i'm in college\
-🌠 &nbsp;i'm still learning\
-🌌 &nbsp;in my free time, i play osu, make music, hang out on discord, and draw\
-💤 &nbsp;you can shoot me a message on discord if you need something (silxnt_kxng#9439) and i'll hopefully respond as soon as possible\
+🌐 &nbsp;i'm mainly interested in video games and i wanna be a video game dev or work in accessibility in the future\
+🌠 &nbsp;i'm still learning! go easy on me i'm a little slow\
+🌌 &nbsp;in my free time, i play overwatch, make music, hang out on discord, and program\
+💤 &nbsp;you can shoot me a message on discord if you need something (silxnt_kxng) and i'll hopefully respond as soon as possible\
 
 ### 📘 &nbsp;my stack!
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -30,6 +29,6 @@
 </p>
 
 -----
-by [artem!](https://github.com/silxnt-kxng)
+by [malik!](https://github.com/silxnt-kxng)
 
 created 3 september 2022
