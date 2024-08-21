@@ -2,11 +2,11 @@
 
 ### 🎐 &nbsp;about me!
 
-💙 &nbsp;i make discord bots and i use this for other stuff sometimes\
-🌐 &nbsp;i'm mainly interested in video games and i wanna be a video game dev or work in accessibility in the future\
+💙 &nbsp;i'm a student at usf and i make discord bots\
+🌐 &nbsp;i have a lot of interests as far as computers go, and i'd love to explore my options\
 🌠 &nbsp;i'm still learning! go easy on me i'm a little slow\
-🌌 &nbsp;in my free time, i play overwatch, make music, hang out on discord, and program\
-💤 &nbsp;you can shoot me a message on discord if you need something (silxnt_kxng) and i'll hopefully respond as soon as possible\
+🌌 &nbsp;in my free time i play video games, do graphic design, and do other stuff\
+💤 &nbsp;you can shoot me a message on discord if you need something and i'll hopefully respond as soon as possible\
 
 ### 📘 &nbsp;my stack!
 
@@ -29,6 +29,6 @@
 </p>
 
 -----
-by [malik!](https://github.com/silxnt-kxng)
+by [z](https://github.com/silxnt-kxng)
 
 created 3 september 2022
