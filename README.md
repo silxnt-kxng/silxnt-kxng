@@ -4,7 +4,7 @@
 
 &nbsp;my name is **z**, pick whatever pronouns for me but **he** and **they** are preferred\
 &nbsp;i'm in cs 110: intro to python at **university of san francisco**\
-&nbsp;you can shoot me a message on [discord](https://discord.com/users/839601350865584158) if you need something\
+&nbsp;you can shoot me a message on [discord](https://discord.com/users/839601350865584158) if you need something
 
 ### &nbsp;stuff i do
 
