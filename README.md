@@ -2,7 +2,7 @@
 
 ### &nbsp;about me
 
-&nbsp;my name is **z**, pick whatever pronouns for me but **he** and **they** are preferred\
+&nbsp;my name is **z**, my pronouns are he and they\
 &nbsp;i'm in cs 112: oop and data structures at **university of san francisco**\
 &nbsp;you can shoot me a message on [discord](https://discord.com/users/839601350865584158) if you need something
 
